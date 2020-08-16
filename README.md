@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/vishal-nagar-0a94a0194/">
   <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
-<br />
+<hr />
 
 Hello, I'm vishal , Electronics engineering student 🏫 sardar vallabahi national insitute of technology , surat . I like to work on web development technologies . currently I am learning  javascript , Nodejs , React ..
 <br />
