@@ -1,8 +1,4 @@
 ## Hi there 👋 I'm Vishal !
-#### connect me on :
-<a href="https://www.linkedin.com/in/vishal-nagar-0a94a0194/">
-  <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <br />
 Hello, I'm vishal , Electronics engineering student 🏫 sardar vallabhbhai national institute of technology , surat . I like to work on web development technologies . currently I am learning  javascript , Nodejs , React ..
 <br />
@@ -23,5 +19,10 @@ Hello, I'm vishal , Electronics engineering student 🏫 sardar vallabhbhai nati
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<br />
+#### connect me on :
+<a href="https://www.linkedin.com/in/vishal-nagar-0a94a0194/">
+  <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
