@@ -9,7 +9,6 @@ Hello, I'm vishal , Electronics engineering student 🏫 sardar vallabhbhai nati
 - 🤔 I’m looking for help with web dev tech;
 - 💬 Ask me about anything , Ready to help;
 - 📫 How to reach me: nvishal2580@gmail.com ;
-- ⚡ Fun fact: silent to hear ! ;
 
 ### Languages and Tools : 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -24,5 +23,6 @@ Hello, I'm vishal , Electronics engineering student 🏫 sardar vallabhbhai nati
 <a href="https://www.linkedin.com/in/vishal-nagar-0a94a0194/">
   <img align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 
 
